@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>test
+
+        </title>
+
+    </head>
+<body bgcolor="set the background color">
+    <h1>
+        hi
+    </h1>
+    <a href="add the link of website here">add the display name</a>
+    <br>
+    <h6>
+        hi
+    </h6>
+    <br>
+    <br>
+    <center><img src="image name.must be in same file as project" alt="when error this is display text" height="(number)px" width="(number)px"></center>
+    <h1>
+    heading.adjustable if number reduced
+    </h1>
+    
+</body>
+</html>
